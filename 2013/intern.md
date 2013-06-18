@@ -1,4 +1,4 @@
-# インターンシップ
+# インターンのインターンシップメモ
 
 ## 6/17
 - [朝会について](http://objectclub.jp/download/files/pf/MorningMeetingGuide.pdf)
