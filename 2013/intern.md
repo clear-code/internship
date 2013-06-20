@@ -1,5 +1,15 @@
 # インターンのインターンシップメモ
 
+## 6/20
+- [データ駆動テスト](http://www.clear-code.com/blog/2013/1/23.html)
+- [テストのグループ化](http://www.clear-code.com/blog/2012/4/25.html)
+
+### やったこと
+- 6/18 のプログラムの続き スキーマ定義するところまで
+
+### 考えたこと
+- まだテストを書くのに時間がかかる
+
 ## 6/18
 - test-unit
 - [Travis CI](https://travis-ci.org/)
