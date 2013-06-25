@@ -1,3 +1,5 @@
+2013-06-24:100%:
+  groonga/groonga@4d4cc0a: LSB を初めて知った
 2013-06-20:100%:
   ranguba/epub-searcher@b6a98bd: もうちょっと考えて動詞を使いたい
 2013-06-18:100%:
