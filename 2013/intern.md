@@ -1,5 +1,16 @@
 # インターンのインターンシップメモ
 
+## 6/26
+- [rr](https://github.com/rr/rr)
+
+### やったこと
+- groonga-command 1.0.2 のリリース
+- groonga-client 0.0.1 のリリース
+- groonga-client のテストを mock を使って書く
+
+### 考えたこと
+- mock を作るときの考え方があまりわからずに手間取った
+
 ## 6/25
 
 ### やったこと
